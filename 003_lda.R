@@ -1,7 +1,6 @@
 
 #---------------- About ------------------
-# Author: Ariane Duverdier
-# Project: AD systematic literature review
+# Project: Systematic literature review of data-driven research on eczema and atopic dermatitis (AD).
 
 # This script performs Latent Dirichlet Allocation (LDA) on the collection of documents retrieved and imported from the SCOPUS database.
 # Uses the tm and topicmodels R packages to do so.

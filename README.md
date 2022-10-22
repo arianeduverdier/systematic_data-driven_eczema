@@ -1,5 +1,7 @@
 # Systematic literature review on data-driven research on atopic dermatitis and eczema
  
+This repository contains the code developed for the article by [Duverdier et al. (2022), "Data-driven research on eczema: Systematic characterization of the field and recommendations for the future"](https://doi.org/10.1002/clt2.12170), published in Clinical and Translational Allergy. 
+ 
 This project performs a systematic literature review on data-driven atopic dermatitis (AD) and eczema research. 
 1. The literature search was conducted on the SCOPUS database, retrieving all documents that apply multivariate statistics (MS), machine learning and artificial intelligence (ML&AI), and/or Bayesian statistics (BS) methods to AD and eczema research. 
 2. A bibliometric analysis was conducted on the corpus of documents to highlight the publication trends and conceptual knowledge structure of the field of research. 

@@ -39,3 +39,7 @@ The project is created with the following libraries and their versions:
 * pheatmap 1.0.12
 
 All packages used in this project can be installed using `install.packages("name_of_package")`.
+
+
+## License
+The open source version of this project is licensed under the GPLv3 license, which can be seen in the [LICENSE](license.md) file.

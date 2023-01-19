@@ -42,4 +42,4 @@ All packages used in this project can be installed using `install.packages("name
 
 
 ## License
-The open source version of this project is licensed under the GPLv3 license, which can be seen in the [LICENSE](license.md) file.
+The open source version of this project is licensed under the GPLv3 license, which can be seen in the [LICENSE](LICENSE) file.
